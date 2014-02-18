@@ -61,6 +61,10 @@ Some prebuilt configurations are given within the library. The `CONF` module att
 
 The configurations for dimensions 2 to 7 are from Cioppa (2007) and 8 to 29 are from De Rainville et al. 2012.
 
+Configuration Repository
+------------------------
+See the (Quasi Random Sequences Repository)(http://qrand.gel.ulaval.ca) for more configurations. 
+
 References
 ----------
 Cioppa, T. M., & Lucas, T. W. (2007). Efficient nearly orthogonal and space-filling Latin hypercubes. *Technometrics*, 49(1).
