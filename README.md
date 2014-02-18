@@ -52,6 +52,15 @@ The `nolh()` function accepts configurations with either numbers in [0 q-1] or [
     remove = range(dim - r + 1, dim + 1)
     nolh = pynolh.nolh(conf, remove)
 
+Some prebuilt configurations are given within the library. The `CONF` module attribute is a dictionary with the dimension as key and a configuration, columns to remove pair as value.
+
+    import pynolh
+
+    conf, remove = pynolh.CONF[6]
+    nolh = pynolh.nolh(conf, remove)
+
+The configurations for dimensions 2 to 7 are from Cioppa (2007) and 8 to 29 are from De Rainville et al. 2012.
+
 References
 ----------
 Cioppa, T. M., & Lucas, T. W. (2007). Efficient nearly orthogonal and space-filling Latin hypercubes. *Technometrics*, 49(1).
