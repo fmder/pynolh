@@ -63,7 +63,7 @@ The configurations for dimensions 2 to 7 are from Cioppa (2007) and 8 to 29 are 
 
 Configuration Repository
 ------------------------
-See the (Quasi Random Sequences Repository)(http://qrand.gel.ulaval.ca) for more configurations. 
+See the [Quasi Random Sequences Repository](http://qrand.gel.ulaval.ca) for more configurations. 
 
 References
 ----------
