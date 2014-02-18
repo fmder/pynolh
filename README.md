@@ -6,7 +6,11 @@ Cioppa (2007) and De Rainville et al. (2012) and reference therein.
 
 Installation
 ------------
-Download the sources and from the directory type
+Clone the repository
+
+    $ git clone http://github.com/fmder/pynolh.git
+
+and from the cloned directory type
 
     $ python setup.py install
 
