@@ -29,6 +29,8 @@ from a desired dimensionality. To generate a 6 dimension NOLH from the indentity
     remove = range(dim - r, dim)
     nolh = pynolh.nolh(conf, remove)
 
+The NOLH returned is a numpy array with one row being one sample.
+
 You can also produce a NOLH from a random permutation configuration vector and remove random columns:
 
     import pynolh
