@@ -6,6 +6,10 @@ Cioppa (2007) and De Rainville et al. (2012) and reference therein.
 
 Installation
 ------------
+Using `pip`
+
+    $ pip install pynolh
+
 Clone the repository
 
     $ git clone http://github.com/fmder/pynolh.git
